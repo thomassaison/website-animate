@@ -21,6 +21,7 @@ function handleScroll() {
   });
 }
 
+
 handleScroll();
 $(window).scroll(() => {
     handleScroll();
